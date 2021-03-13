@@ -1,0 +1,30 @@
+{
+  "name": "pa3",
+  "version": "1.0.0",
+  "description": "Preparatory Assessment 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edacity11/webapp1.git"
+  },
+  "keywords": [
+    "Preparatory-Assessment-3",
+    "weatherJS",
+    "expressJS",
+    "EJS"
+  ],
+  "author": "Edrick Valencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edacity11/webapp1/issues"
+  },
+  "homepage": "https://github.com/Edacity11/webapp1#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "weather-js": "^2.0.0"
+  }
+}
