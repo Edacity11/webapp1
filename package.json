@@ -25,6 +25,8 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "request": "^2.88.2",
     "weather-js": "^2.0.0"
   }
 }
